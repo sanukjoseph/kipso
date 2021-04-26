@@ -1,4 +1,10 @@
-host demo link - https://next-kipso.vercel.app/
+Host demo link - https://next-kipso.vercel.app/
+Home version type: 3 ( 3 design styles )
+Home header types: 3 ( 3 design styles )
+Price plans
+Teacher section
+Blog/News
+Course Section ( with details any purchase )
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
