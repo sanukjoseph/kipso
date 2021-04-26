@@ -1,3 +1,7 @@
+Web app is created using Next js ( + React js ), SCSS, CSS
+
+
+
 Host demo link - https://next-kipso.vercel.app/
 Home version type: 3 ( 3 design styles )
 Home header types: 3 ( 3 design styles )
