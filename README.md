@@ -36,7 +36,7 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 ## Installing
 
 ```bash
-npm i/install
+npm i / install
 # or
 yarn / yarn install
 ```
